@@ -1,4 +1,4 @@
-# smart-paper
+# Smart Paper
 
 An app to manage and analyst your exam.
 
