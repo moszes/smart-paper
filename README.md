@@ -14,6 +14,7 @@ Informasi lebih lanjut silahkan lihat [generator-angular-fullstack](https://gith
 ## Contribute
 Silahkan buka sebuah Issue atau Pull Request untuk menyarankan perubahan atau penambahan.
 
+Juga silahkan lihat [persiapan proyek](https://github.com/clanshood/smart-paper-project-prepare)
 
 ## Authors
  - Bent @clanshood
