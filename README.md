@@ -3,7 +3,7 @@
 An app to manage and analyst your exam.
 
 ## Penggunaan
-Buat diretori lalu ``cd`` ke direktori tersebut. Clone Repo ini kemudian jalankan:
+Buat diretori lalu ``cd`` ke direktori tersebut. Clone Repo https://github.com/clanshood/smart-paper.git ini kemudian jalankan:
 
 ```$ npm install && bower install```
 
